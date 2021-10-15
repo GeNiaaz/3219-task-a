@@ -1,5 +1,10 @@
 # OTOT Task A1
 
+## Instructions for usage at Notion link below
+
+[Notion link](https://geniaaz.notion.site/Task-A-65f23cf2481d44aab9b880d5fbbd5523)
+
+
 ## Setup & Run
 
 ```
